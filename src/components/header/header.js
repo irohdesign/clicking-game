@@ -1,9 +1,8 @@
 import React from "react";
 import "./header.css";
 
-let score = 0;
-
 function header() {
+    var score = 0;
     return (
         <div class="header">
             <h1>Clicking Game</h1>

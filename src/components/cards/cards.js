@@ -11,7 +11,7 @@ function Card(props) {
     }
 
     return(
-        <div> 
+        <div onClick={() => props.addPoint(props.id)}> 
         {/* add onClick event */}
            <div className = "tile col-sm-4">
                 <div style = {sectionStyle} className="background-img"></div>

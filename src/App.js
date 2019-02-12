@@ -5,6 +5,7 @@ import Cast from "./sunny.json";
 import "./style.css";
 
 class App extends Component {
+   
 
     state = {
         Cast
@@ -14,6 +15,7 @@ class App extends Component {
         return (
             <main>
                 <Header />
+                
                 <div class="container">
                     {this.state.Cast.map(member => (
                         <Card id={member.id}
