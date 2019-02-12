@@ -1,13 +1,17 @@
 import React, {Component} from "react";
-
+import Header from "./components/header/header.js";
+import Card from "./components/cards/cards.js";
+import Cast from "./sunny.json";
 
 class App extends Component {
     render() {
         return (
-            <div>
-                <h1>Here's a test</h1>
-            </div>
-        )
+            <main>
+                <Header />
+    
+                <Card />
+            </main>
+        );
     }
 }
 export default App;

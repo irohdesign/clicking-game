@@ -1,0 +1,21 @@
+.header {
+    background: black;
+    margin: 0;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+
+h1 {
+    font-family: Staatliches;
+    font-size: 60px;
+    letter-spacing: 6px;
+    margin: 0;
+    text-shadow: darkgoldenrod 2px 2px;
+}
+
+h3, h4 {
+    font-family: sans-serif;
+    font-weight: normal;
+    letter-spacing: 1px;
+}
