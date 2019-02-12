@@ -22,12 +22,12 @@
     {
         "id": 5,
         "name": "Frank",
-        "image": "https://i.ytimg.com/vi/4TBQ9rD686c/maxresdefault.jpg"
+        "url": "http://assets1.ignimgs.com/2016/01/28/iasip0127161280jpg-0d7729_1280w.jpg"
     },
     {
         "id" : 6,
         "name" : "Bonnie",
-        "url" : "https://66.media.tumblr.com/ba6e8b01ed115c999e83d5041af7345c/tumblr_pjwh8vOuwJ1taq4zmo3_500.png"
+        "url" : "https://vignette.wikia.nocookie.net/itsalwayssunny/images/a/a0/Bonnie.png/revision/latest?cb=20100222221318"
     },
     {
         "id": 7,
@@ -47,6 +47,6 @@
     {
         "id": 10,
         "name": "Mac's Dad",
-        "image": "https://i.redd.it/qtu50ozgik001.jpg"
+        "url": "https://i.redd.it/qtu50ozgik001.jpg"
     }
 ]
