@@ -31,7 +31,7 @@
     },
     {
         "id": 7,
-        "name": "Liam MyPoyle",
+        "name": "Liam McPoyle",
         "url": "https://vignette.wikia.nocookie.net/itsalwayssunny/images/8/82/Liam_McPoyle.jpg/revision/latest/scale-to-width-down/620?cb=20141103023841"
     },
     {
@@ -46,7 +46,17 @@
     },
     {
         "id": 10,
-        "name": "Mac's Dad",
+        "name": "Luther",
         "url": "https://i.redd.it/qtu50ozgik001.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Ben the Soldier",
+        "url": "https://i.redd.it/vqcweaba95m11.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Rickety Cricket",
+        "url": "https://uproxx.files.wordpress.com/2015/01/cricket-main.jpg?w=650&quality=100&h=408"
     }
 ]

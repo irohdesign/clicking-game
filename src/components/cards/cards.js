@@ -5,7 +5,7 @@ function Card(props) {
 
     var sectionStyle = {
         backgroundImage: `url(${props.url})`,
-        height: '320px',
+        height: '240px',
         width: '100%',
         backgroundSize: 'cover'
     }
